@@ -10,3 +10,5 @@
 @import "./home/home.css";
 /* Import Components */
 @import "./utilities/components.css";
+/* import bikes page */
+@import "./bikes/bike-list.css";
