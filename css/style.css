@@ -4,8 +4,9 @@
 @import "./utilities/typography.css";
 /* General colors */
 @import "./utilities/colors.css";
-/* Import Header */
+/* Import Header & Footer */
 @import "./global/header.css";
+@import "./global/footer.css";
 /* Homepage */
 @import "./home/home.css";
 /* Import Components */
@@ -14,3 +15,5 @@
 @import "./bikes/bike-list.css";
 @import "./home/tech.css";
 @import "./home/partners.css";
+@import "./home/testimony.css";
+@import "./insurance/insurance.css";
